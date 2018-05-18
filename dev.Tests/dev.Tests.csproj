@@ -32,8 +32,24 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Kamsar.WebConsole, Version=1.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kamsar.WebConsole.1.2.2.0\lib\net40\Kamsar.WebConsole.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+    <Reference Include="Rainbow, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Core.1.0.1\lib\net45\Rainbow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Sc, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Sc.1.0.1\lib\net45\Rainbow.Storage.Sc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Yaml, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Yaml.1.0.1\lib\net45\Rainbow.Storage.Yaml.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
@@ -46,6 +62,14 @@
     <Reference Include="System.Web.Routing" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="Unicorn, Version=3.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unicorn.Core.3.0.2\lib\net45\Unicorn.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Unicorn.Bootstrap, Version=0.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unicorn.Bootstrap.0.0.3\lib\net452\Unicorn.Bootstrap.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="UnitTest1.cs" />
@@ -59,6 +83,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="App_Config\Include\Rainbow.config" />
+    <None Include="App_Config\Include\Rainbow.TFS.config.example" />
+    <None Include="App_Config\Include\Unicorn.Bootstrap\Unicorn.Bootstrap.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Configs.SerializationFolder.config.example" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+    <None Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
