@@ -182,6 +182,11 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <Content Include="App_Config\Include\Unicorn.Bootstrap\Unicorn.Bootstrap.config" />
+    <Content Include="App_Config\Include\z.sync.config\Unicorn.Configs.NewItemsOnly.example" />
+    <Content Include="App_Config\Include\z.sync.config\Unicorn.Configs.SerializationFolder.config.example" />
+    <Content Include="App_Config\Include\z.sync.config\Unicorn.Deployed.config.disabled" />
+    <Content Include="App_Config\Include\z.sync.config\Unicorn.Remote.config.disabled" />
+    <Content Include="App_Config\Include\z.sync.config\DevLerrningSync.config" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
