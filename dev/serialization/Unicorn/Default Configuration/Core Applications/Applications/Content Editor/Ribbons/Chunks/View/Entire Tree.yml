@@ -1,0 +1,89 @@
+﻿---
+ID: a55b020a-b75b-4da6-8cf5-856bf10286ee
+Parent: 8787e501-f2e9-434e-9f76-45259d9d8c7c
+Template: abc069d5-3627-4a20-841e-d199b0eb4957
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/View/Entire Tree
+SharedFields:
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Developing|pe|+item:read|pd|+item:read|
+- ID: fa8ffab1-6269-480d-b746-f6bed5a178a2
+  # Click
+  Value: contenteditor:toggleentiretree
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125707Z
+    - ID: 455d570d-77b9-4aa6-b84e-d7dcab7079c0
+      # Tooltip
+      Value: Vis eller skjul alle sektionerne i indholdstræet.
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Hele træet
+    - ID: c7a8b822-2b9d-4e1d-9e5f-82326fcbbfc1
+      # Header
+      Value: Hele træet
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130640Z
+    - ID: 455d570d-77b9-4aa6-b84e-d7dcab7079c0
+      # Tooltip
+      Value: Alle Bereiche im Content Tree anzeigen oder verbergen.
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Gesamter Tree
+    - ID: c7a8b822-2b9d-4e1d-9e5f-82326fcbbfc1
+      # Header
+      Value: Gesamter Tree
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060629T113906Z
+    - ID: 455d570d-77b9-4aa6-b84e-d7dcab7079c0
+      # Tooltip
+      Value: Show or hide all the sections in the content tree.
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c7a8b822-2b9d-4e1d-9e5f-82326fcbbfc1
+      # Header
+      Value: Entire tree
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131322Z
+    - ID: 455d570d-77b9-4aa6-b84e-d7dcab7079c0
+      # Tooltip
+      Value: ツリー全体を表示または非表示にします
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ツリー全体
+    - ID: c7a8b822-2b9d-4e1d-9e5f-82326fcbbfc1
+      # Header
+      Value: ツリー全体

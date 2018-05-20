@@ -1,0 +1,71 @@
+﻿---
+ID: 6681c7f1-a70c-4410-8263-eaa78bb06b15
+Parent: edd2f78d-b57c-4e14-aadf-9fe1204a45ae
+Template: dfa646fe-94f1-4d3c-a07f-cb10d06be480
+Path: /sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default maps/Site maps/website
+SharedFields:
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|Everyone|pe|-item:delete|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130118Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a9f08988-6488-4d19-8c92-eb4c7aeb14e7
+      # Site Name
+      Value: Domæne
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Domæne
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130947Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a9f08988-6488-4d19-8c92-eb4c7aeb14e7
+      # Site Name
+      Value: Website
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Website
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150625T221525Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a9f08988-6488-4d19-8c92-eb4c7aeb14e7
+      # Site Name
+      Value: website
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131541Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a9f08988-6488-4d19-8c92-eb4c7aeb14e7
+      # Site Name
+      Value: Web サイト
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Web サイト

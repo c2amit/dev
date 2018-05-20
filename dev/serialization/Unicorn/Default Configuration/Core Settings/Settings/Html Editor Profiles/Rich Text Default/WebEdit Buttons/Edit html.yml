@@ -1,0 +1,92 @@
+﻿---
+ID: 7ca64462-aa23-4be5-83a0-22771fead95b
+Parent: aeefe909-8c11-4bf8-b112-1f9898be2514
+Template: 02404208-46d4-49bf-988b-eb363a52a1c9
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text Default/WebEdit Buttons/Edit html
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Office/16x16/Pencil.png
+- ID: 1bb289d6-44d7-4fcc-af15-db32b841f957
+  # Click
+  Value: "chrome:field:editcontrol({command:\"webedit:edithtml\"})"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: -1
+- ID: e8cc41c7-c304-4282-b782-e21ca32d324c
+  # Icon
+  Value: Office/16x16/Pencil.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125641Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Rediger teksten
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Rediger HTML
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Rediger tekst
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130602Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Den Text bearbeiten
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Html bearbeiten
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Text bearbeiten
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20071226T124551Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Edit the text
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Edit Text
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131254Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: テキストを編集します
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: HTML を編集する
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: テキスト編集

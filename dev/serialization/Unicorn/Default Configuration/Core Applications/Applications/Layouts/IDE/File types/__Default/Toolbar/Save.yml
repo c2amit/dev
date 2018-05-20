@@ -1,0 +1,93 @@
+﻿---
+ID: 1c7ad758-6369-4d99-b061-6c3b8179475a
+Parent: 19a8e969-44d2-42a2-a936-970f753df850
+Template: 79e55cb1-fdb0-460a-ab97-b629069f15da
+Path: /sitecore/content/Applications/Layouts/IDE/File types/__Default/Toolbar/Save
+BranchID: 593dca58-5a88-4464-b2c9-a63dd5ce39a4
+SharedFields:
+- ID: 0a9ec22e-c3c1-42e4-875d-c31aeaf28216
+  # Icon
+  Value: Applications/24x24/disk_blue.png
+- ID: 95dce7f7-107b-4e53-be87-f16e707a5d3f
+  # Click
+  Value: item:save
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 10
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Gem
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125540Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Gem ændringerne
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Gem
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Speichern
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130442Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Änderungen speichern
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Speichern
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Save
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20050930T143549
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Save Changes
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20050930T143549
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: 保存
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131148Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: 変更を保存します
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 保存

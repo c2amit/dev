@@ -1,0 +1,78 @@
+﻿---
+ID: 904b08fd-cc76-4f64-8efa-bc94817ee8d5
+Parent: 3dea6b10-a40c-4dbc-8c9e-9a5bb8809619
+Template: 998b965e-6ab8-4568-810f-8101d60d0cc3
+Path: /sitecore/content/Applications/Content Editor/Menues/Clone/Clone Without SubItems
+SharedFields:
+- ID: 335c6760-6c0e-4c6c-814c-a53d203f553e
+  # Icon
+  Value: Applications/16x16/documents.png?overlay=NetworkV2/16x16/link.png
+- ID: 83798d75-df25-4c28-9327-e8bac2b75292
+  # __Insert Rules
+  Type: tree list
+  Value: {59330275-34E2-46D9-B5CD-2F1B6BC64A9E}
+- ID: cab694fc-e37c-44eb-9012-488b775cf638
+  # Message
+  Value: item:cloneitemwithoutsubitems
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125655Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Klon uden under-items
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Klon uden under-items
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130624Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Ohne Unteritems klonen
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ohne Unteritems klonen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20100816T100600
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Clone Without Subitems
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131309Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: サブアイテムを含まないクローン
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: サブアイテムを含まないクローン

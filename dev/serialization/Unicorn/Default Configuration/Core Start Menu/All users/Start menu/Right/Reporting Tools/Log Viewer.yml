@@ -1,0 +1,72 @@
+﻿---
+ID: c44fe8b5-36ab-43aa-9d56-76ce7a54ef12
+Parent: e5563ce1-2f76-410f-81f7-1ba58c6fff75
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Right/Reporting Tools/Log Viewer
+BranchID: 5e8cfcf9-cef2-4bdb-9e35-219c50184066
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: apps/32x32/logviewer.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link text=\"Log viewer\" linktype=\"internal\" url=\"/Applications/Reports/LogViewer\" anchor=\"\" title=\"\" class=\"\" target=\"_self\" id=\"{CF2251F9-1B9C-4C3B-A5C8-5135632B320D}\" />"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 50
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Maintaining|pd|+item:read|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125731Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Logvisning
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130706Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Log Viewer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060322T085601Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060322T085601Z
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131343Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ログ ビューアー

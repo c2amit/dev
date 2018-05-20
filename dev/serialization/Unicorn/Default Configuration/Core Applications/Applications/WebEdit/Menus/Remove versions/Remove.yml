@@ -1,0 +1,77 @@
+﻿---
+ID: dc5392f8-dc61-4b6f-9f50-63c49646d68f
+Parent: 9abb7631-b5c0-4446-aa26-0b2f4dc059e0
+Template: 998b965e-6ab8-4568-810f-8101d60d0cc3
+Path: /sitecore/content/Applications/WebEdit/Menus/Remove versions/Remove
+SharedFields:
+- ID: 335c6760-6c0e-4c6c-814c-a53d203f553e
+  # Icon
+  Value: Office/16x16/remove_version.png
+- ID: cab694fc-e37c-44eb-9012-488b775cf638
+  # Message
+  Value: item:deleteversion
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125745Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Fjern den aktuelle version
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Fjern den aktuelle version
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130725Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Aktuelle Version entfernen
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Aktuelle Version entfernen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150217T154954Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Remove current version
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Remove current version
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131402Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: 現在のバージョンを削除
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 現在のバージョンを削除

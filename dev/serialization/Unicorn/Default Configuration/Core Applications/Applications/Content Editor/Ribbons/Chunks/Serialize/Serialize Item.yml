@@ -1,0 +1,92 @@
+﻿---
+ID: 93f6c3fe-b36e-4083-ba48-19de43f19f49
+Parent: 7496e82d-16b7-4df3-8188-76afa765415d
+Template: 9f62ebd5-2280-4a35-be51-a210d831d687
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Serialize/Serialize Item
+SharedFields:
+- ID: 4c2dedb4-40fb-4166-8221-c4dd3e914478
+  # Click
+  Value: itemsync:dumpitem
+- ID: 8e40ab40-8c83-4ff7-9d33-38ed9458de1e
+  # Icon
+  Value: Office/16x16/serialize_item.png
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 0
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Authoring|pe|+item:read|pd|+item:read|a?|Everyone|p*|!*|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125657Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Serialiser elementet til filsystemet
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Serialiser element
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Serialiser element
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130627Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Das Item in das Dateisystem serialisieren
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Item serialisieren
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Item serialisieren
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20070928T105528Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Serialize the item to the file system
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Serialize item
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131311Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: アイテムをファイル システムへシリアル化します
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アイテムをシリアル化
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: アイテムをシリアル化

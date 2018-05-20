@@ -1,0 +1,74 @@
+﻿---
+ID: 442b7099-5cd3-449a-9ac7-32524599549d
+Parent: 0de2e8ab-1dc3-4bbc-8cf3-b422c883d498
+Template: 4efe99e4-a41b-4eec-9fbf-9cf82a4b1350
+Path: /sitecore/content/Applications/Content Editor/Applications/ContentEditorForm
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: apps/32x32/pencil.png
+- ID: 6d91e6fb-7277-4563-abe0-33a2045bd77f
+  # Source
+  Value: /sitecore/shell/Applications/Content Manager/Default.aspx?he=Content Editor&ic=apps/32x32/pencil.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125606Z
+    - ID: 438471bb-1514-4637-b50a-de6abaf999de
+      # Header
+      Value: Indholdsredigering
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ContentEditorForm
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130515Z
+    - ID: 438471bb-1514-4637-b50a-de6abaf999de
+      # Header
+      Value: Content Editor
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ContentEditorFormular
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060517T082321Z
+    - ID: 438471bb-1514-4637-b50a-de6abaf999de
+      # Header
+      Value: Content Editor
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131216Z
+    - ID: 438471bb-1514-4637-b50a-de6abaf999de
+      # Header
+      Value: コンテンツ エディター
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: コンテンツ エディター フォーム

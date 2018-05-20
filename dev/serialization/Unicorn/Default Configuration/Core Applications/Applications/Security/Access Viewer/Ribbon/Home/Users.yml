@@ -1,0 +1,77 @@
+﻿---
+ID: 31dcef25-b31d-48b0-b1d7-4a7f129ab13a
+Parent: 19a09109-5881-411d-aaaa-a71ad457cc9a
+Template: 8f3d8f9b-2d76-4ace-803f-35415d2b230a
+Path: /sitecore/content/Applications/Security/Access Viewer/Ribbon/Home/Users
+SharedFields:
+- ID: 8bb9a5e3-cae8-49c6-b830-258a51d970c9
+  # ID
+  Value: UsersChunk
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 200
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125554Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Brugere
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Brugere
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130501Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Benutzer
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Rollen und Benutzer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060320T092019Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060320T092019Z
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Roles and users
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131203Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ユーザー
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: ユーザー

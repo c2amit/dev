@@ -1,0 +1,81 @@
+﻿---
+ID: 0bead50f-59b0-4448-a40e-f9c3a02c83e8
+Parent: 96cc5932-b73d-4781-be5c-85aa3dddf45c
+Template: bdb6fa46-2f76-4bde-8138-52b56c2fc47e
+Path: /sitecore/content/Applications/Tools/Log Viewer
+BranchID: c5f1aa82-f831-477e-ba04-11d435d476e4
+SharedFields:
+- ID: 20f47b0c-b146-4847-ac4d-0b25983514b3
+  # Click
+  Value: shell:logviewer
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 300
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Maintaining|pd|+item:read|pe|+item:read|ar|Everyone|pe|!*|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125525Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Vis logfilerne
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Logvisning
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130426Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Log Dateien anzeigen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Log Viewer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060331T104308Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: View the Log Files
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060331T104308Z
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131137Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: ログ ビューアーを起動する
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: ログ ビューアー

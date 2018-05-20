@@ -1,0 +1,65 @@
+﻿---
+ID: 460bab43-6437-4421-a385-42a63a62e636
+Parent: 8e5d7991-0456-466b-8a6e-6773531d6f82
+Template: dbc60382-0fed-4b55-8eae-178f9099bd75
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Ribbon/Format/Paragraph/Indents/Indent
+SharedFields:
+- ID: a6bc1b34-38e3-4ad4-b2ae-747a3d95e269
+  # Icon
+  Value: WordProcessing/16x16/increase_indent.png
+- ID: ed98a41e-34cc-42a4-b87f-02b2fe4c0225
+  # Click
+  Value: "javascript:scContent.fire(\"Indent\")"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125607Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Indrykning
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130516Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Einrückung
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060406T110406
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060320T232141
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131218Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: インデントを増やす

@@ -1,0 +1,75 @@
+﻿---
+ID: 02245d9f-3201-4625-a51f-aa0d8a628c56
+Parent: 5023026b-1249-4951-ac4b-5638a9b7a8fb
+Template: bdb6fa46-2f76-4bde-8138-52b56c2fc47e
+Path: /sitecore/content/Applications/Control Panel/Analytics/Retrieve Status Information
+BranchID: c5f1aa82-f831-477e-ba04-11d435d476e4
+SharedFields:
+- ID: 20f47b0c-b146-4847-ac4d-0b25983514b3
+  # Click
+  Value: analytics:status
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 10
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125518Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Hent statusinformation
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Hent statusinformation
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130417Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Statusinformationen erhalten
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Statusinformationen erhalten
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20080829T132110
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Retrieve status information
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131130Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: アナリティクス ステータスを取得する
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アナリティクス ステータスを取得

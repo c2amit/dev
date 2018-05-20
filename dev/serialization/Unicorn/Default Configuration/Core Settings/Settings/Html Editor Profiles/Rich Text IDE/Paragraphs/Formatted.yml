@@ -1,0 +1,78 @@
+﻿---
+ID: 0f25ddd2-483e-4a2e-9be3-fbd356ce0223
+Parent: 2361d22e-68ec-4cb8-8dda-81ad5e3b0ab8
+Template: 2b421e6f-e820-4a04-9a4a-e421a0262b61
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Paragraphs/Formatted
+BranchID: 14d0d756-dd94-4cfa-aed6-6d2585535700
+SharedFields:
+- ID: 433e22b5-06aa-4a97-a4ac-7cb059ebbac6
+  # Value
+  Value: <pre>
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125526Z
+    - ID: 519cd02a-a857-4894-9c9b-ac9bdc472937
+      # Header
+      Value: Formateret
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Formateret
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130429Z
+    - ID: 519cd02a-a857-4894-9c9b-ac9bdc472937
+      # Header
+      Value: Formatiert
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Formatiert
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060201T122043
+    - ID: 519cd02a-a857-4894-9c9b-ac9bdc472937
+      # Header
+      Value: Formatted
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060201T122043
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131139Z
+    - ID: 519cd02a-a857-4894-9c9b-ac9bdc472937
+      # Header
+      Value: フォーマット済み
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: フォーマット済み

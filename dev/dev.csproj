@@ -183,10 +183,10 @@
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <Content Include="App_Config\Include\Unicorn.Bootstrap\Unicorn.Bootstrap.config" />
     <Content Include="App_Config\Include\z.sync.config\Unicorn.Configs.NewItemsOnly.example" />
-    <Content Include="App_Config\Include\z.sync.config\Unicorn.Configs.SerializationFolder.config.example" />
+    <None Include="App_Config\Include\z.sync.config\DevLearning.Configs.SerializationFolder.config" />
     <Content Include="App_Config\Include\z.sync.config\Unicorn.Deployed.config.disabled" />
     <Content Include="App_Config\Include\z.sync.config\Unicorn.Remote.config.disabled" />
-    <Content Include="App_Config\Include\z.sync.config\DevLerrningSync.config" />
+    <Content Include="App_Config\Include\z.sync.config\DevLerrning.Configs.Sync.config" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <None Include="scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="scripts\jquery-1.10.2.js" />
@@ -202,6 +202,14 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\Content\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\Core Applications\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\Core Settings\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\Core Start Menu\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\Field types\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\layout\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\system\" />
+    <Folder Include="serialization\Unicorn\Default Configuration\templates\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />

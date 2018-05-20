@@ -1,0 +1,77 @@
+﻿---
+ID: d6304ead-bdc1-4235-a6c2-e4de56aeb3c5
+Parent: 7598ad6e-1cc2-44c7-b6f8-bb6588ba41a3
+Template: 9f62ebd5-2280-4a35-be51-a210d831d687
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Ribbon/Format/Insert/InsertMedia
+SharedFields:
+- ID: 4c2dedb4-40fb-4166-8221-c4dd3e914478
+  # Click
+  Value: "javascript:scContent.fire(\"InsertSitecoreMedia\")"
+- ID: 8e40ab40-8c83-4ff7-9d33-38ed9458de1e
+  # Icon
+  Value: Applications/16x16/photo_scenery.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125741Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Indsæt medie
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Indsæt medie...
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130720Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Medien einfügen
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Medien einfügen...
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060406T110532
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Insert Media...
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060321T125724
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131356Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: メディアを挿入する
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: メディア挿入

@@ -1,0 +1,77 @@
+﻿---
+ID: 3dbaab0e-db21-4d80-b60a-c821e993dddf
+Parent: f567cdac-d48b-4c87-b628-b90145cc7149
+Template: 8f3d8f9b-2d76-4ace-803f-35415d2b230a
+Path: /sitecore/content/Applications/Archives/Archive/Ribbon/Home/Operations
+SharedFields:
+- ID: 8bb9a5e3-cae8-49c6-b830-258a51d970c9
+  # ID
+  Value: OperationsChunk
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 50
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125602Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Handlinger
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Handlinger
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130510Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Operationen
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Operationen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20071011T091503
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060317T125820
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Operations
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131212Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 操作
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: 操作

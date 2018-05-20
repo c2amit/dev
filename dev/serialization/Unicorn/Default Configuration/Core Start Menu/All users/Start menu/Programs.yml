@@ -1,0 +1,86 @@
+﻿---
+ID: 68f18608-4430-407e-8d34-0b79000dfe51
+Parent: b965ece5-5879-4d8d-a6b1-4233d7d06b0f
+Template: 579bad93-bfef-43e0-9a2e-c3ff30b87987
+Path: /sitecore/content/Documents and settings/All users/Start menu/Programs
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/24x24/media_play_green.png
+- ID: 092e08f3-8863-40b1-a17c-ef10351aa4f6
+  # Icon
+  Value: Applications/24x24/media_play_green.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: tree list
+  Value: |
+    {5E8CFCF9-CEF2-4BDB-9E35-219C50184066}
+    {EF83F2F7-9CD0-474C-924D-BAFCAFB681F2}
+- ID: 56776edf-261c-4abc-9fe7-70c618795239
+  # __Help link
+  Value: <link/>
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 30
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Users|pd|-item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125628Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b27c8ac7-1044-4911-bfb3-f38a9703b93f
+      # Display name
+      Value: Alle applikationer
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Programmer
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130546Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b27c8ac7-1044-4911-bfb3-f38a9703b93f
+      # Display name
+      Value: Alle Anwendungen
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Programme
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b27c8ac7-1044-4911-bfb3-f38a9703b93f
+      # Display name
+      Value: All Applications
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131241Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b27c8ac7-1044-4911-bfb3-f38a9703b93f
+      # Display name
+      Value: すべてのプログラム
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: プログラム

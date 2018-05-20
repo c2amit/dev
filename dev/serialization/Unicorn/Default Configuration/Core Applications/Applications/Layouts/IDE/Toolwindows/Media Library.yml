@@ -1,0 +1,80 @@
+﻿---
+ID: 7b114ab3-93c1-40cc-9e2f-f17842ba8318
+Parent: 1ff9ceee-bb24-43f7-a7a8-e60d88295a8f
+Template: ab306f6c-b5fc-46a1-9325-837296558fae
+Path: /sitecore/content/Applications/Layouts/IDE/Toolwindows/Media Library
+SharedFields:
+- ID: 2231d160-8bde-43c3-ace3-f5787ba7aed5
+  # Control
+  Value: IDE.MediaLibrary
+- ID: 339b1170-ceb5-4977-b86a-de84e28f510a
+  # Icon
+  Value: Applications/16x16/photo_scenery.png
+- ID: eab4b2f9-1d25-4132-82c9-b97b05bd60e4
+  # Frame Name
+  Value: MediaLibrary
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125640Z
+    - ID: 2804cb88-1ca6-44a7-b94e-ef1972a14d57
+      # Title
+      Value: Mediebibliotek
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Mediebibliotek
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130601Z
+    - ID: 2804cb88-1ca6-44a7-b94e-ef1972a14d57
+      # Title
+      Value: Media Library
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Media Library
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20051116T163123
+    - ID: 2804cb88-1ca6-44a7-b94e-ef1972a14d57
+      # Title
+      Value: Media Library
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20051116T163123
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131253Z
+    - ID: 2804cb88-1ca6-44a7-b94e-ef1972a14d57
+      # Title
+      Value: メディア ライブラリ
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: メディア ライブラリ
