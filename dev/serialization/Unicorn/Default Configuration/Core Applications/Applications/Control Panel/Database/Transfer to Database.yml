@@ -1,0 +1,78 @@
+﻿---
+ID: c92a990c-73e5-4978-808b-a188c600b39d
+Parent: 82419497-f084-4c31-931f-551389260ce9
+Template: bdb6fa46-2f76-4bde-8138-52b56c2fc47e
+Path: /sitecore/content/Applications/Control Panel/Database/Transfer to Database
+BranchID: c5f1aa82-f831-477e-ba04-11d435d476e4
+SharedFields:
+- ID: 20f47b0c-b146-4847-ac4d-0b25983514b3
+  # Click
+  Value: item:transfertodatabase
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 40
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Maintaining|pe|+item:read|pd|+item:read|ar|Everyone|pe|!*|ar|sitecore\Sitecore Client Developing|pe|+item:read|pd|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125734Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Overfør elementer til en anden database
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Overfør til database
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130710Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Items in eine andere Datenbank übertragen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Zur Datenbank verschieben
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140901T133221:635451751418635040Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Move an item to another database
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131347Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: データベースに転送する
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: データベースに転送する

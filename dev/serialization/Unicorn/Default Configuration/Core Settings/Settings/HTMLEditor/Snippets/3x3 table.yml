@@ -1,0 +1,89 @@
+﻿---
+ID: 9f8ff33b-df4b-483d-a987-2307b28a4776
+Parent: fdee6fd7-91d6-4ff8-8a20-58f8f5b8006f
+Template: acde682b-a8c7-4e5c-b8ba-78fde04651a4
+Path: /sitecore/system/Settings/HTMLEditor/Snippets/3x3 table
+BranchID: ee2fa1d0-6abf-40e6-aa7c-be54a2a54992
+SharedFields:
+- ID: cd2dc446-ffb3-41fe-a078-00f34ea30678
+  # Snippet
+  Value: |
+    <TABLE cellSpacing=0 cellPadding=0 border=1>
+    <TBODY>
+    <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+    <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+    <TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR></TBODY></TABLE>
+- ID: f1aa3bc0-d787-4d9b-b870-99e466ab3590
+  # Icon
+  Value: /sitecore/client/themes/standard/tableedit16x16.gif
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125704Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 3x3 tabel
+    - ID: c0a90eae-7a06-47c0-80e1-6513ae2d3f33
+      # Title
+      Value: 3x3 tabel
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130636Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 3x3 Tabelle
+    - ID: c0a90eae-7a06-47c0-80e1-6513ae2d3f33
+      # Title
+      Value: 3x3 Tabelle
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060424T113025
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c0a90eae-7a06-47c0-80e1-6513ae2d3f33
+      # Title
+      Value: 3x3 table
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131318Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 3x3 テーブル
+    - ID: c0a90eae-7a06-47c0-80e1-6513ae2d3f33
+      # Title
+      Value: 3x3 テーブル

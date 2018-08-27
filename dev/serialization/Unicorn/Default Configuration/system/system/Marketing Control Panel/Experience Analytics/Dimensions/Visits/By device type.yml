@@ -1,0 +1,68 @@
+﻿---
+ID: 84af4324-8096-4a5e-9c5c-dbbe92d814d3
+Parent: 59b831db-114c-47a7-ae5e-787d092c660f
+Template: 82969ff1-15fa-4cdc-8ca4-5204a6add761
+Path: /sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By device type
+BranchID: 6a697493-a755-4a7b-9435-0f2076a1ee23
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130126Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: Efter enhedstype
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Efter enhedstype
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130954Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: Nach Gerätetyp
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Nach Gerätetyp
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150525T032745Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: By device type
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131548Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: デバイスの種類別
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: デバイスの種類別

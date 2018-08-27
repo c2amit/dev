@@ -1,0 +1,72 @@
+﻿---
+ID: e5d56897-23d1-46f3-b8fb-d351c1cafb7e
+Parent: 59b831db-114c-47a7-ae5e-787d092c660f
+Template: 82969ff1-15fa-4cdc-8ca4-5204a6add761
+Path: /sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By asset facet
+BranchID: 6a697493-a755-4a7b-9435-0f2076a1ee23
+SharedFields:
+- ID: 39c4902e-9960-4469-aeef-e878e9c8218f
+  # __Hidden
+  Value: 1
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130150Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: Efter aktivfacet
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Efter aktivfacet
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131020Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: Nach Assetfacette
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Nach Assetfacette
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150420T033408Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: By asset facet
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131611Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a6302f86-e82b-4bda-ab63-639395e1b614
+      # Name
+      Value: アセット ファセット別
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アセット ファセット別

@@ -1,0 +1,93 @@
+﻿---
+ID: e28353a0-fb68-455b-9b2e-99ad280ef64e
+Parent: eba3991f-8d26-41b1-97e5-090d55020aa0
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Left/Content Editor
+BranchID: 5e8cfcf9-cef2-4bdb-9e35-219c50184066
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: /sitecore/shell/themes/standard/People/16x16/cubes_blue.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link text=\"Content Editor\" linktype=\"internal\" url=\"/Applications/Content editor\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"\" id=\"{7EADA46B-11E2-4EC1-8C44-BE75784FF105}\" />"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: -100
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Designing|pd|+item:read|pe|+item:read|ar|sitecore\Sitecore Client Authoring|pd|+item:read|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140516T182104:635358612644969923
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Indholdsredigering
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Administrer indholdet.
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Indholdsredigering
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140516T175235:635358595552697199
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Content Editor
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Verwalten Sie Ihre Inhalte.
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Content Editor
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20080312T123830:633409223100051628
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Manage your content.
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Content Editor
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140516T184714:635358628347116886
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: コンテンツ エディター
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: コンテンツを管理する
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: コンテンツ エディター

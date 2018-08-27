@@ -1,0 +1,89 @@
+﻿---
+ID: b0f09ef2-c25d-4403-bef2-7a475a8422a1
+Parent: d46b2398-a264-411c-b6dc-8a513383acd0
+Template: 9f62ebd5-2280-4a35-be51-a210d831d687
+Path: /sitecore/content/Applications/Security/Security Editor/Ribbon/Home/Tools/Access Viewer
+SharedFields:
+- ID: 4c2dedb4-40fb-4166-8221-c4dd3e914478
+  # Click
+  Value: shell:accessviewer
+- ID: 8e40ab40-8c83-4ff7-9d33-38ed9458de1e
+  # Icon
+  Value: Apps/16x16/lock.png
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Configuring|pe|+item:read|pd|+item:read|ar|sitecore\Sitecore Client Securing|pe|+item:read|pd|+item:read|a?|Everyone|p*|!*|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125716Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Åbn adgangsfremviser.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Adgangsfremviser
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Adgangsfremviser
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130650Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Access Viewer öffnen.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Access Viewer
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Access Viewer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20070510T101314Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: Open the Access Viewer.
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: Access Viewer
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131330Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a47cd065-c361-4332-b22b-7e2148de06f4
+      # Tooltip
+      Value: アクセス ビューアーを開く
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アクセス ビューアー
+    - ID: c184f18b-b452-44d6-8376-facd6cef8a42
+      # Header
+      Value: アクセス ビューアー
