@@ -1,0 +1,92 @@
+﻿---
+ID: a59e3738-08e1-49ea-9199-e0140f56c67d
+Parent: eba3991f-8d26-41b1-97e5-090d55020aa0
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Left/Sitecore App Center
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Apps/48x48/Steps.png
+- ID: 238a40da-15f2-4412-b720-8f192ffa7491
+  # Icon
+  Value: Apps/48x48/Steps.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link url=\"/Applications/Sitecore App Center\" id=\"{E6387DA9-33D8-478D-8F1B-7B015B54B18A}\" linktype=\"internal\" />"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 625
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150427T173149:635657527099388012Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Sitecore App Center
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Installer og vedligehold Apps
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Sitecore App Center
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150427T174053:635657532539745431Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Sitecore App Center
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Installieren und verwalten von Apps
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Sitecore App Center
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20101124T132300Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: Install and maintain apps.
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: Sitecore App Center
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150427T174955:635657537958994768Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アプリケーション センター
+    - ID: bb865e67-0be3-49d8-b8bd-1db4b34ab2e3
+      # Tool tip
+      Value: インストールと管理
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: アプリケーション センター

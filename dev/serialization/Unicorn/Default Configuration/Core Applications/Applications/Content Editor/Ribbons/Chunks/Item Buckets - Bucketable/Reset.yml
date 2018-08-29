@@ -1,0 +1,92 @@
+﻿---
+ID: a5394a19-3fd1-44e0-ad27-dd3a7f2c2331
+Parent: 5eb9993c-4b6b-4658-8c9b-9900bc0cdb78
+Template: 1db34c92-03b0-4475-9a39-da14e4d9d8fc
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Item Buckets - Bucketable/Reset
+SharedFields:
+- ID: 1193b1a3-0148-413f-a979-49b39aa4a2af
+  # ID
+  Value: ItemBucketableReset
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 200
+- ID: d47ed548-84d5-4622-9886-5cc164727507
+  # Icon
+  Value: Office/16x16/reset_bucketable.png
+- ID: dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b
+  # Click
+  Value: item:resetbucketable
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125707Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Nulstil
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Nulstil indstillinger for bucketable til dem, der er angivet i skabelonen.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Nulstil
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130640Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Zurücksetzen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Setzen Sie die Bucketable-Einstellung auf die im Template definierte zurück.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Zurücksetzen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20130601T093136
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Reset
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Reset bucketable setting to the one defined on the template.
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131322Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: リセット
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: バケット可能設定をテンプレートで定義された設定にリセットします
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: リセット

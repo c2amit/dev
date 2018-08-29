@@ -1,0 +1,86 @@
+﻿---
+ID: ffba6c72-0c87-499c-b205-c8c928c3df88
+Parent: d012a738-7871-40df-ab6e-ea71f7137bed
+Template: bab68954-d9e6-464d-88e5-c207cb392aa7
+Path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Chris
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Business/32x32/businessman2.png
+- ID: efa537ec-d9d1-4a38-bfa4-323713813045
+  # Image
+  Value: "<image mediaid=\"{DB854E88-4293-4D0B-9623-85F58FCAB7D6}\" mediapath=\"/Experience Explorer/Presets/Chris 128x128\" src=\"~/media/DB854E8842934D0B962385F58FCAB7D6.ashx\" />"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130158Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Forretning
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Chris
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Chris
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131026Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Unternehmen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Chris
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Chris
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20130112T080400
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Business
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Chris
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131616Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: ビジネス
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: クリス
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: クリス

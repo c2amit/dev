@@ -1,0 +1,92 @@
+﻿---
+ID: ef17ae03-465d-45a5-86df-06672680e1d7
+Parent: 3d81202a-cc03-46e4-86a0-cec530a8ef07
+Template: 1db34c92-03b0-4475-9a39-da14e4d9d8fc
+Path: /sitecore/content/Applications/Security/User Manager/Ribbon/Home/Users/New
+SharedFields:
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+- ID: d47ed548-84d5-4622-9886-5cc164727507
+  # Icon
+  Value: Office/24x24/add_user.png
+- ID: dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b
+  # Click
+  Value: usermanager:newuser
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125757Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Ny
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Opret en ny bruger.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ny
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130744Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Neu
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Neuen Benutzer erstellen.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Neu
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060317T102719Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: New
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Create a new user.
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060317T102719Z
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131417Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: 新規作成
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: 新しいユーザーを作成
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 新規作成

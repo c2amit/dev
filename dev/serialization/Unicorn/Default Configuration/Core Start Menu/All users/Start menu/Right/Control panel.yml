@@ -1,0 +1,72 @@
+﻿---
+ID: 937827f8-19d8-4f84-8d3f-9e9ee640098c
+Parent: 10148dc7-dca6-4aca-ac90-46fbf59a1d1f
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Right/Control panel
+BranchID: 5e8cfcf9-cef2-4bdb-9e35-219c50184066
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: /sitecore/shell/themes/standard/Applications/32x32/preferences.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link text=\"Log viewer\" linktype=\"internal\" url=\"/Applications/Control panel\" anchor=\"\" title=\"\" class=\"\" querystring=\"\" target=\"_self\" id=\"{AD6A5F44-088A-450E-9DBE-75DDADC94C57}\" />"
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 1262
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Users|pd|+item:read|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125657Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Kontrolpanel
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130626Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Control Panel
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140616T091804:635385070849772999
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140516T184733:635358628530504519
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: コントロール パネル
+    - ID: c032db76-cc34-4f8f-be2d-d2fb35237aab
+      # Display name
+      Value: コントロール パネル

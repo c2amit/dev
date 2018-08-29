@@ -1,0 +1,66 @@
+﻿---
+ID: 42d4cbe0-60a9-4a8b-81a6-9596246976c5
+Parent: 68f18608-4430-407e-8d34-0b79000dfe51
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Programs/Image Editor
+BranchID: 5e8cfcf9-cef2-4bdb-9e35-219c50184066
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Apps/32x32/Photos.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link text=\"Imager\" linktype=\"internal\" url=\"/Applications/Media/Imager\" anchor=\"\" title=\"\" class=\"\" target=\"_self\" id=\"{BCCB851C-31D2-456E-8E58-C966562A7340}\"/>"
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Authoring|pd|+item:read|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125605Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Billedredigering
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130514Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Bild Editor
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140929T073839Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131215Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: イメージ エディター

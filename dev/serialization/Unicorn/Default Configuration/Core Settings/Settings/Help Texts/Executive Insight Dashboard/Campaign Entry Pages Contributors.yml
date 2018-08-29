@@ -1,0 +1,71 @@
+﻿---
+ID: 9a72827f-08ba-4113-857c-e421bdf1a3bf
+Parent: ea20c44a-ac61-44cd-9fe7-7b7ae132151a
+Template: 11a111ff-4343-4af8-91dc-3c49dbedd9c6
+Path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Campaign Entry Pages Contributors
+SharedFields:
+- ID: 86238e01-03fa-4ac2-84aa-dd106281e85b
+  # Key
+  Value: CampaignEntryPagesContributors
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 300
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18d518f5-4b35-4bc8-9700-741c26ae76b7
+      # Title
+      Value: Bidragydere til kampagneindgangsside
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125701Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Bidragydere til kampagneindgangsside
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18d518f5-4b35-4bc8-9700-741c26ae76b7
+      # Title
+      Value: Kampagneneinstiegsseite Teilnehmer
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130632Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Kampagneneinstiegsseite Teilnehmer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20120513T193200
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 18d518f5-4b35-4bc8-9700-741c26ae76b7
+      # Title
+      Value: キャンペーン エントリー ページの貢献状況
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131315Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: キャンペーン エントリー ページの貢献状況

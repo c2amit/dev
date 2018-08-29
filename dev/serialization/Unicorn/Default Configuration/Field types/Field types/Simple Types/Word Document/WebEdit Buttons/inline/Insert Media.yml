@@ -1,0 +1,89 @@
+﻿---
+ID: f5591c0d-aac1-42ca-b55b-cac51e408b98
+Parent: 1db04031-afe8-4ab2-acb1-02ba1ead3179
+Template: 02404208-46d4-49bf-988b-eb363a52a1c9
+Path: /sitecore/system/Field types/Simple Types/Word Document/WebEdit Buttons/inline/Insert Media
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/32x32/photo_scenery.png
+- ID: 1bb289d6-44d7-4fcc-af15-db32b841f957
+  # Click
+  Value: "chrome:field:editcontrol({command:\"webedit:wordinsertmedia\"})"
+- ID: e8cc41c7-c304-4282-b782-e21ca32d324c
+  # Icon
+  Value: Applications/32x32/photo_scenery.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125800Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Indsæt et billede
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Indsæt medie
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Indsæt medie
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130801Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Bild einfügen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Medien einfügen
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Medien einfügen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20071015T094800
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Insert a picture
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Insert Media
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131421Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: 画像を挿入します
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: メディアを挿入する
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: メディアを挿入する

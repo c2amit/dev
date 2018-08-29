@@ -1,0 +1,92 @@
+﻿---
+ID: f49e96e3-a2e5-480a-8b5c-cd23cc12aeb1
+Parent: d88736df-9122-4c59-84c3-664603ee4d0c
+Template: 1db34c92-03b0-4475-9a39-da14e4d9d8fc
+Path: /sitecore/content/Applications/Media/Imager/Ribbon/Image/Rotate/Rotate Right
+SharedFields:
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+- ID: d47ed548-84d5-4622-9886-5cc164727507
+  # Icon
+  Value: Office/24x24/rotate_right.png
+- ID: dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b
+  # Click
+  Value: imager:rotateright
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125800Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Højre 90&deg;
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Roter billedet 90 grader højre om.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Roter højre om
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130759Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Rechts 90&deg;
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Bild um 90 Grad nach Rechts drehen.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Rechts drehen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060721T085833Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Right 90&deg;
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Rotate the image right 90 degrees.
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060320T092016Z
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131420Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: 右へ 90°回転
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: 画像を右へ 90°回転します
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 右へ回転

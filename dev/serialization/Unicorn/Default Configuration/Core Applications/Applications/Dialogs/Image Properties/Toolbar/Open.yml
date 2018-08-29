@@ -1,0 +1,93 @@
+﻿---
+ID: 50ae748d-fe94-464c-b909-c1372230ee8b
+Parent: 432cb1d4-4f6b-45a3-8553-435635a8128e
+Template: 79e55cb1-fdb0-460a-ab97-b629069f15da
+Path: /sitecore/content/Applications/Dialogs/Image Properties/Toolbar/Open
+BranchID: 593dca58-5a88-4464-b2c9-a63dd5ce39a4
+SharedFields:
+- ID: 0a9ec22e-c3c1-42e4-875d-c31aeaf28216
+  # Icon
+  Value: Applications/24x24/folder_out.png
+- ID: 8ae4373a-4522-461f-bccf-855ec333d4b2
+  # Down
+  Value: 0
+- ID: 95dce7f7-107b-4e53-be87-f16e707a5d3f
+  # Click
+  Value: imageproperties:open
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 10
+- ID: f8203177-e6c4-45ae-bd67-c8af6d7d0450
+  # Toggle
+  Value: 0
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Åbn
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125614Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Åbn et nyt billede
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Åbn
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Öffnen
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130523Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Ein neues Bild öffnen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Öffnen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: Open
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: Open a new image
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0243b5ca-1a92-4093-9ead-b4f7b8ad2594
+      # Header
+      Value: 開く
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131224Z
+    - ID: 49b67f65-b00e-47e4-ae41-04ed250bd614
+      # Tool tip
+      Value: 新しい画像を開きます
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 開く

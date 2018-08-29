@@ -1,0 +1,63 @@
+﻿---
+ID: 70eef2f0-4a17-427b-99a1-5069658eae7a
+Parent: d44171b1-2d27-4aac-85ba-337a83396dbe
+Template: 72450c9c-98c4-4117-88b7-573110c7e0c0
+Path: /sitecore/content/Documents and settings/All users/Start menu/Programs/System/About
+BranchID: 5e8cfcf9-cef2-4bdb-9e35-219c50184066
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: apps/32x32/Informations.png
+- ID: 8a1ac797-0304-4c50-aaac-4d9dbbff435f
+  # Application
+  Value: "<link text=\"\" linktype=\"internal\" url=\"/Applications/About\" anchor=\"\" title=\"\" class=\"\" target=\"\" id=\"{57D6E1B5-16A4-46EC-92BD-8A3652D6B29D}\"/>"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125633Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Om
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130552Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Über
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20140929T070554Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131246Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: サイトコア システム情報

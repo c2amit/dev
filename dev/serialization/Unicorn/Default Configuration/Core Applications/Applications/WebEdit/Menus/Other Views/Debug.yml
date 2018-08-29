@@ -1,0 +1,77 @@
+﻿---
+ID: 5f8ff009-b8f0-456b-a610-6f8f7b3954fb
+Parent: 8ce4c18d-52ad-42e2-ac01-e47d86494345
+Template: 998b965e-6ab8-4568-810f-8101d60d0cc3
+Path: /sitecore/content/Applications/WebEdit/Menus/Other Views/Debug
+SharedFields:
+- ID: 335c6760-6c0e-4c6c-814c-a53d203f553e
+  # Icon
+  Value: Office/16x16/debug.png
+- ID: cab694fc-e37c-44eb-9012-488b775cf638
+  # Message
+  Value: webedit:debug
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Developing|pe|+item:read|pd|+item:read|ar|sitecore\Sitecore Client Users|pe|!*|pd|!*|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125622Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Debug
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Debug
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130537Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Debug
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Debug
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20100601T143900Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: Debug
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131235Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9b72a62b-2775-423d-b17a-ec34a9f31af8
+      # Display name
+      Value: デバッグ
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: デバッグ

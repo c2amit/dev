@@ -1,0 +1,95 @@
+﻿---
+ID: 7fc1cf32-8909-4b14-9417-4480890f65b0
+Parent: c94f0445-a7c2-4454-adda-a66b4789cca3
+Template: 1db34c92-03b0-4475-9a39-da14e4d9d8fc
+Path: /sitecore/content/Applications/Content Editor/Editors/Layouts/Preview/Ribbon/Design/View/Refresh
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/16x16/window.png
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: -51
+- ID: d47ed548-84d5-4622-9886-5cc164727507
+  # Icon
+  Value: Office/24x24/refresh.png
+- ID: dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b
+  # Click
+  Value: preview:refresh
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125643Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Opdater
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Opdater visningen
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Opdater
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130604Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Aktualisieren
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Ansicht aktualisieren
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Aktualisieren
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20070905T123629
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Refresh
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Refresh the view
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060316T145942
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131256Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: 更新
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: 表示を更新します
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 更新

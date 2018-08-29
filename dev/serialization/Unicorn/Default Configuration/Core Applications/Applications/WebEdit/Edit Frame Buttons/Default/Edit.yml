@@ -1,0 +1,89 @@
+﻿---
+ID: 70c4eed5-d4cd-4d7d-9763-80c42504f5e7
+Parent: ff3a53ee-195c-40b5-a3e4-ae0d2b8de203
+Template: 1ab4f9ad-b004-413c-8924-3e07143a614b
+Path: /sitecore/content/Applications/WebEdit/Edit Frame Buttons/Default/Edit
+SharedFields:
+- ID: 4431914a-c40b-437c-8add-d2ed12cc8cc3
+  # Icon
+  Value: people/16x16/cubes_blue.png
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 200
+- ID: cf738220-908d-4c3f-9482-32e625daf13c
+  # Fields
+  Value: Title|Text
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 108d3a63-baaa-4560-86d8-3a112ed84717
+      # Header
+      Value: Rediger element
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125633Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 5f0812af-d370-4292-afee-f26a39b7406d
+      # Tooltip
+      Value: Rediger elementfelterne.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Rediger
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 108d3a63-baaa-4560-86d8-3a112ed84717
+      # Header
+      Value: Item bearbeiten
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130552Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 5f0812af-d370-4292-afee-f26a39b7406d
+      # Tooltip
+      Value: Das Itemfeld bearbeiten.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Bearbeiten
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 108d3a63-baaa-4560-86d8-3a112ed84717
+      # Header
+      Value: Edit Item
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20090528T094300
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 5f0812af-d370-4292-afee-f26a39b7406d
+      # Tooltip
+      Value: Edit the item fields.
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 108d3a63-baaa-4560-86d8-3a112ed84717
+      # Header
+      Value: 編集
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131246Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 5f0812af-d370-4292-afee-f26a39b7406d
+      # Tooltip
+      Value: アイテムのフィールドを編集します
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 編集

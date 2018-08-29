@@ -1,0 +1,78 @@
+﻿---
+ID: 6c7afc8b-a8e2-4d9b-ae2c-7e682fddf965
+Parent: 0f560e35-7929-43d3-82e9-79be11c3f016
+Template: bdb6fa46-2f76-4bde-8138-52b56c2fc47e
+Path: /sitecore/content/Applications/Control Panel/Administration/Update Installation Wizard
+BranchID: c5f1aa82-f831-477e-ba04-11d435d476e4
+SharedFields:
+- ID: 20f47b0c-b146-4847-ac4d-0b25983514b3
+  # Click
+  Value: update:showupdatewizard
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 50
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Users|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125631Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Installér en opdatering
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Opdater installationsguide
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130549Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Update installieren
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Installationsassistenten aktualisieren
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160628T035515Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: Install an update
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131244Z
+    - ID: 48323b75-9f6a-4779-ac8b-a01da56b35b3
+      # Header
+      Value: 更新をインストール
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 更新インストール ウィザード

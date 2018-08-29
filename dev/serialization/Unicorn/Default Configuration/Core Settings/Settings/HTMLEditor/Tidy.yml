@@ -1,0 +1,89 @@
+﻿---
+ID: 15089c36-e581-4f02-ba56-4f8ae3d27781
+Parent: 821fd287-eb8b-48c6-ae5e-f8b05b71a8c8
+Template: c645e9c4-5ed6-4bdb-96c0-02e5ace00602
+Path: /sitecore/system/Settings/HTMLEditor/Tidy
+SharedFields:
+- ID: 5fac4b12-ee3b-44af-b6b0-95a3c7ede9b1
+  # Clean on paste
+  Value: 1
+- ID: 65be1933-491f-42c6-a8b8-def7844fe7b4
+  # Allowed tags
+  Value: |a|div|span|p|table|td|tr|img|h1|h2|h3|h4|h5|h6|applet|b|i|u|br|center|embed|form|input|select|textarea|frame|iframe|object|strong|em|tbody|tfoot|th|ul|ol|option|param|nobr|li|
+- ID: 6687df0a-ef02-4111-98e1-0809c39d7dd4
+  # Tidy on drop
+  Value: 0
+- ID: 7d87cb7f-2990-4b28-84a1-02c6152477a7
+  # Tidy on paste
+  Value: 0
+- ID: 811c0c47-7441-4a83-83b6-c86f3f011a59
+  # Filter on drop
+  Value: 0
+- ID: 97ffce5d-a80f-470b-b26a-a7861ac39ca6
+  # Tidy on button
+  Value: 1
+- ID: ad43a1c4-3adf-4097-9265-897369a113ce
+  # Tidy on save
+  Value: 1
+- ID: b0d50e0a-fafa-4f37-96a9-df6124aa197b
+  # Clean on button
+  Value: 1
+- ID: bf430c9d-c50f-4c64-b34b-4e2c5d3fd0b1
+  # Filter on button
+  Value: 1
+- ID: cd48ee5c-18ff-4e2a-8e0b-97adb9833043
+  # Clean on drop
+  Value: 0
+- ID: cf8acda9-59c4-444a-b120-a1759a15176d
+  # Filter on paste
+  Value: 1
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125534Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ryd
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130435Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ordnen
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060424T113027
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131143Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 整理

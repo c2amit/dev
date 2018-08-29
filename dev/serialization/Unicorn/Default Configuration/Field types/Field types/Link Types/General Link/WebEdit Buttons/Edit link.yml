@@ -1,0 +1,89 @@
+﻿---
+ID: 7726ee98-1e35-44cf-9f88-b182975fa9f1
+Parent: e42a0320-92e4-42a0-a912-2a5988ddda96
+Template: 02404208-46d4-49bf-988b-eb363a52a1c9
+Path: /sitecore/system/Field types/Link Types/General Link/WebEdit Buttons/Edit link
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: NetworkV2/32x32/link_edit.png
+- ID: 1bb289d6-44d7-4fcc-af15-db32b841f957
+  # Click
+  Value: "chrome:field:editcontrol({command:\"webedit:editlink\"})"
+- ID: e8cc41c7-c304-4282-b782-e21ca32d324c
+  # Icon
+  Value: NetworkV2/32x32/link_edit.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125638Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Redigerer linkdestinationen og udseendet
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Rediger link
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Rediger link
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130557Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Editiert das Linkziel und Linkaussehen
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Link bearbeiten
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Link bearbeiten
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20071015T094903
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: Edits the link destination and appearance
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: Edit link
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131250Z
+    - ID: 371e0d96-4f00-4b80-ad14-6284e00493ba
+      # Tooltip
+      Value: リンク先とアピアランス（外観）を編集します
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: リンクを編集する
+    - ID: c523aba8-d1a1-4dcb-aeee-52635a4ab2ae
+      # Header
+      Value: リンクを編集する

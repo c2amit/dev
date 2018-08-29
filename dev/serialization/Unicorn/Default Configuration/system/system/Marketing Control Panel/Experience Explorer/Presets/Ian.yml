@@ -1,0 +1,101 @@
+﻿---
+ID: 0ee943dc-6ffd-4786-8175-f66c2ff9e20e
+Parent: d012a738-7871-40df-ab6e-ea71f7137bed
+Template: bab68954-d9e6-464d-88e5-c207cb392aa7
+Path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Ian
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: People/32x32/dude3.png
+- ID: b0a67b2a-8b07-4e0b-8809-69f751709806
+  # __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <profile id="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" name="Focus">
+        <key name="Practical" value="0" />
+        <key name="Process" value="0" />
+        <key name="Background" value="0" />
+        <key name="Scope" value="0" />
+      </profile>
+      <profile id="{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}" name="Score">
+        <key name="Lead" value="0" />
+      </profile>
+    </tracking>
+- ID: efa537ec-d9d1-4a38-bfa4-323713813045
+  # Image
+  Value: "<image mediaid=\"{007EB5EE-55D7-4147-AA1E-AA25ED19CA6D}\" mediapath=\"/Experience Explorer/Presets/Ian 128x128\" src=\"~/media/007EB5EE55D74147AA1EAA25ED19CA6D.ashx\" />"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130056Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Familie
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Ian
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ian
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130927Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Familie
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Ian
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Ian
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20130108T071300
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: Family
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: Ian
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131522Z
+    - ID: 5abd49c9-2db6-4299-8e03-dbbb0cb190ec
+      # Details
+      Value: 家族構成
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a874ab53-08df-412e-8885-edba38feb0b9
+      # Name
+      Value: イアン
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: イアン

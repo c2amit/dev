@@ -1,0 +1,80 @@
+﻿---
+ID: fe9ee858-9f68-4f2d-88d9-18fc86bfd093
+Parent: 66738f84-31a9-43c9-9fcf-1515a849d6c5
+Template: 8f3d8f9b-2d76-4ace-803f-35415d2b230a
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Proofing
+SharedFields:
+- ID: 8bb9a5e3-cae8-49c6-b830-258a51d970c9
+  # ID
+  Value: ProofingChunk
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 99
+- ID: dec8d2d5-e3cf-48b6-a653-8e69e2716641
+  # __Security
+  Value: ar|sitecore\Sitecore Client Authoring|pd|+item:read|pe|+item:read|
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125806Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Validering
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Validering
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130808Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Validierung
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Validierung
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060411T154415
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060227T162519
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: Proofing
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131428Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: 校正
+    - ID: c95d21bd-66c3-444b-a37f-d346cbaf2b55
+      # Header
+      Value: 校正

@@ -1,0 +1,84 @@
+﻿---
+ID: 183c7aca-6922-48d2-b532-fc71ace5dace
+Parent: 350bb5c6-9d0f-4a33-8b22-5e3e0648c9ab
+Template: 2beb0e4f-f9aa-4fac-ba9f-81a331c03522
+Path: /sitecore/content/Applications/Debugger/Reports/Performance counters
+BranchID: b126d93b-5bb2-4e8b-81dc-5dbfb7f648d2
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Business/24x24/line-chart.png
+- ID: 20856335-8ec3-4ef9-bf40-e1e4ca578f12
+  # Formatter type
+  Value: Sitecore.Web.UI.HtmlControls.ReportXslFormatter,Sitecore.Kernel
+- ID: 607401a9-e8ba-4a14-9be6-fde7f076d021
+  # Source type
+  Value: Sitecore.Web.UI.HtmlControls.ReportFileSource,Sitecore.Kernel
+- ID: bfde627b-8859-4a89-a4e3-236c421bee98
+  # Icon
+  Value: Business/24x24/line-chart.png
+- ID: e5c086fd-be03-45a4-9b0f-142d2e1da7f5
+  # Formatter parameters
+  Value: xsl=/sitecore/shell/applications/Debugger/Counter.xslt
+- ID: e96c1313-2d1f-4022-be9d-f3576fe44fc6
+  # Source parameters
+  Value: file=$COUNTER
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1595bdf2-1007-4f6a-80f5-f45dbe79e0f3
+      # Title
+      Value: Performancetællere
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125536Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Performancetællere
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1595bdf2-1007-4f6a-80f5-f45dbe79e0f3
+      # Title
+      Value: Leistung Zähler
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130437Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Leistung Zähler
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1595bdf2-1007-4f6a-80f5-f45dbe79e0f3
+      # Title
+      Value: Performance Counters
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 1595bdf2-1007-4f6a-80f5-f45dbe79e0f3
+      # Title
+      Value: パフォーマンス カウンター
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131145Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: パフォーマンス カウンター

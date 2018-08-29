@@ -1,0 +1,89 @@
+﻿---
+ID: 76bcebfb-3c7f-45d8-bd7e-40662532c02f
+Parent: 03a25448-ce63-4e20-8b6a-bc5c745083bb
+Template: 1db34c92-03b0-4475-9a39-da14e4d9d8fc
+Path: /sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Social Renew Account/Social Renew Account/Account/Renew Account
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: People/32x32/user1_refresh.png
+- ID: d47ed548-84d5-4622-9886-5cc164727507
+  # Icon
+  Value: People/32x32/user1_refresh.png
+- ID: dbbf9ee3-c30e-4456-a81f-ed8c2e8df91b
+  # Click
+  Value: social:account:renew
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125637Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Forny konto
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Forny en konto.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Forny konto
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130557Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Konto erneuern
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Ein Konto erneuern.
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Konto erneuern
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20120514T093600
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: Renew Account
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: Renew an account.
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131250Z
+    - ID: 4df6da21-e745-444c-956e-1d4a96ab8821
+      # Header
+      Value: アカウントを更新
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: a1a31a93-c4a0-4396-b629-67c33001a3cf
+      # Tooltip
+      Value: アカウントを更新
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: アカウントを更新

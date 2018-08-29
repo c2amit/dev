@@ -1,0 +1,65 @@
+﻿---
+ID: 786f7641-15cb-4ebd-a796-507c4369f9bc
+Parent: 49bc1dea-a693-4fc3-9c98-71362a385919
+Template: dbc60382-0fed-4b55-8eae-178f9099bd75
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Ribbon/Format/Style/Color/ForeColor
+SharedFields:
+- ID: a6bc1b34-38e3-4ad4-b2ae-747a3d95e269
+  # Icon
+  Value: Imaging/16x16/draw_line.png
+- ID: ed98a41e-34cc-42a4-b87f-02b2fe4c0225
+  # Click
+  Value: "javascript:scContent.fire(\"ForeColor\")"
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125638Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Forgrundsfarve
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130558Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Vordergrundfarbe
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20060406T110404
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: c8f93afe-bfd4-4e8f-9c61-152559854661
+      # __Valid from
+      Value: 20060327T212927
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131251Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: フォントの色

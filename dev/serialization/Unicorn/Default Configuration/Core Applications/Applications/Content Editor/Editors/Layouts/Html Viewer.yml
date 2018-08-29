@@ -1,0 +1,74 @@
+﻿---
+ID: 571a970f-999c-4b11-9448-b309ac6727ee
+Parent: 102977c8-d350-4beb-abeb-5845b8d60f09
+Template: a5aaca0d-77c0-4741-ab77-211cfbdd9e5c
+Path: /sitecore/content/Applications/Content Editor/Editors/Layouts/Html Viewer
+SharedFields:
+- ID: 6f371c74-5bd5-4ebd-b10a-fc54716021ae
+  # Url
+  Value: /sitecore/shell/~/xaml/Sitecore.Shell.Applications.Layouts.HtmlViewer.aspx
+- ID: ab8d0102-91f3-43b6-90aa-5a0641dc8521
+  # Icon
+  Value: Software/16x16/text_code.png
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125618Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: HTML-visning
+    - ID: f7c42332-728e-48b7-bb3c-0d6883e45628
+      # Header
+      Value: HTML-visning
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130528Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Html Viewer
+    - ID: f7c42332-728e-48b7-bb3c-0d6883e45628
+      # Header
+      Value: Html Viewer
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20070125T112544
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\Admin
+    - ID: f7c42332-728e-48b7-bb3c-0d6883e45628
+      # Header
+      Value: Html Viewer
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131229Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: HTML ビューアー
+    - ID: f7c42332-728e-48b7-bb3c-0d6883e45628
+      # Header
+      Value: HTML ビューアー

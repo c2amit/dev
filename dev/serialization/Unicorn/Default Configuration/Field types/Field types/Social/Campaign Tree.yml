@@ -1,0 +1,62 @@
+﻿---
+ID: 7ae351f8-c490-4f87-9080-59e74c3ccebf
+Parent: 844c59a5-37bb-4573-9dda-34ab62b80d7f
+Template: f8a17d6a-118e-4cd7-b5f5-88ff37a4f237
+Path: /sitecore/system/Field types/Social/Campaign Tree
+SharedFields:
+- ID: 6bf5ed07-bc70-42f4-bb77-c017d340950e
+  # Assembly
+  Value: Sitecore.Social.Client
+- ID: 9fe6154a-a16e-4827-99f6-f51533c34ec8
+  # Class
+  Value: Sitecore.Social.Client.MessagePosting.UI.CustomFields.CampaignTree
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T125640Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Kampagnetræ
+- Language: de-DE
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T130600Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Kampagnebaum
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20120702T173700
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+- Language: ja-JP
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170407T131253Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b5e02ad9-d56f-4c41-a065-a133db87bdeb
+      # __Display name
+      Value: Campaign Tree
